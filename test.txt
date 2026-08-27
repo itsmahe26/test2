@@ -1,0 +1,10 @@
+i create new rpository like i create new folder in my workin folder
+in working folder:
+first - create folder name 'test2'
+next create files 
+git add .
+git commit -m ''
+git branch -M main
+git remote add origin url (from copy in git)
+git push orign main 
+
