@@ -4,7 +4,7 @@ first - create folder name 'test2'
 next create files 
 git add .
 git commit -m ''
-git branch -M main
 git remote add origin url (from copy in git)
+git branch -M main
 git push orign main 
 
