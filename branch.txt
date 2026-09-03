@@ -4,3 +4,13 @@ creat branch in git hub
 - create new branch(testBranch1) from 'main' branch
 - goto your vscode and put cmd 'git pull and git branch -a' on your same(branch base repo) repo folder
 - shows your newly create branch name and after 'git checkout testBranch1' then modify and push
+- now changes are complete and updated to repo
+
+merge comment 
+- now testBranch1 has some change 
+- i will do update my main branch with my merge comment 
+- first checkout main branch 
+cmd: git merge testBranch1 
+- now testBranch1 changes are comes to main branch
+- git add . , commit , push
+so this way to you get brnach to branch modify updated files 
