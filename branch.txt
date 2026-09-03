@@ -2,5 +2,5 @@ creat branch in git hub
 
 - go to your repository test1
 - create new branch(testBranch1) from 'main' branch
-- goto your vs code and put cmd 'git pull and git branch -a' on your same(branch base repo) repo folder
-- show your newly create branch name and after 'git checkout testBranch1' then modify and push
+- goto your vscode and put cmd 'git pull and git branch -a' on your same(branch base repo) repo folder
+- shows your newly create branch name and after 'git checkout testBranch1' then modify and push
